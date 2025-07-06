@@ -81,9 +81,6 @@ project/
 ├── prompts.py                     # Collection of prompts used by the agent for different query types
 ├── requirements.txt               # Python dependencies and package versions
 ├── test_queries_responses.json    # Sample queries and their structured responses for testing
-├── assignment-v2_small.pdf        # Project assignment document with requirements
-├── Financial_Analysis_Agent_Design_Doc.pdf  # Design documentation for the financial analysis agent
-├── demo_recording.mov             # Video demonstration of the agent in action
 └── README.md                      # This documentation file
 ```
 
